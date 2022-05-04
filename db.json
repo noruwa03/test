@@ -4,6 +4,11 @@
             "title": "Post One",
             "author": "Thomas Finn",
             "date": "20-03-2022"
+        },
+         {
+            "title": "Post Two",
+            "author": "Angela Yu",
+            "date": "10-04-2022"
         }
     ]
 }
